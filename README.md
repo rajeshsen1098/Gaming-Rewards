@@ -81,12 +81,10 @@ User → Soroban Contract → Storage (Rewards)
 
 ## 🔗 Deployed Contract
 👉Freighter wallet address:
-
-👉 View on Stellar Expert:
   GAZKBYR6XL7QNKNNAX2LWLADIQQRFQHIE5UVCCJBS4TW4MJOFHIQVSKA
 
-
-[https://stellar.expert/explorer/testnet/contract/CAQHNSTNB4KYDLALKWC6XCPL2BVZXVQRGNL7KNKKOAFZTGXRX73RJSL7](https://stellar.expert/explorer/testnet/contract/CAQHNSTNB4KYDLALKWC6XCPL2BVZXVQRGNL7KNKKOAFZTGXRX73RJSL7)
+👉 View on Stellar Expert:
+ [https://stellar.expert/explorer/testnet/contract/CAQHNSTNB4KYDLALKWC6XCPL2BVZXVQRGNL7KNKKOAFZTGXRX73RJSL7](https://stellar.expert/explorer/testnet/contract/CAQHNSTNB4KYDLALKWC6XCPL2BVZXVQRGNL7KNKKOAFZTGXRX73RJSL7)
 
 ---
 
