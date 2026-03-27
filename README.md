@@ -1,4 +1,14 @@
+<img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 01_57_20 PM" src="https://github.com/user-attachments/assets/2721adca-2ece-4988-875f-2b045ab26dea" />
+
 # 🎮 Gaming Rewards – Soroban Smart Contract (Stellar)
+
+---
+##DEMO
+<img width="1908" height="872" alt="Screenshot 2026-03-27 132916" src="https://github.com/user-attachments/assets/db9e255f-8ce5-40c4-b554-9f0f7983d716" />
+<img width="1906" height="851" alt="Screenshot 2026-03-27 134132" src="https://github.com/user-attachments/assets/44617041-2ae8-4e08-adc9-4bba5ffbe00d" />
+
+
+---
 
 ## 🚀 Overview
 
